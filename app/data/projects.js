@@ -1,43 +1,64 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: 'Private Tracking for COVID-19',
+    subtitle: 'CS411 Final Project',
+    link: 'https://github.com/Clara9/CS411_Backend',
+    image: '/images/projects/images.jpeg',
+    date: 'July - August 2020',
+    desc: 'Built Python-Pyramid API endpoints with REST to insert, update and delete items, with SQL queries for MariaDB access.',
   }, {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    title: 'Virus Spread Data Analysis',
+    subtitle: 'RMDS Lab Data Projects',
+    link: 'https://grmds.org/project-coronavirus',
+    image: '/images/projects/download.jpeg',
+    date: 'March 2020',
+    desc: 'Extracted and visualized data from provincial and city datasets in China using PCA analysis, with seaborn and sklearn libraries from Python. ' +
+    'Cleaned and merged data from hospital dataset, and classify with decision-tree in Python. ' +
+    'Created workflows for the simulation and time-series analysis of infection rate in Los Angeles. ', 
   }, {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc: 'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+    title: 'Budget Savings App',
+    subtitle: 'Hackathon Project for 2019 Capital One SWE Summit',
+    link: 'https://github.com/Clara9/CapitalOneHackSavings',
+    image: '/images/projects/budget.jpg',
+    date: 'August 2019',
+    desc: 'Implemented Camera API in Android Studio. ' + 
+      'Researched on image-classification and text-recognition with Google Vision API and Tesseract OCR',
   }, {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc: 'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-     + 'Over 60,000 cats were classified before server bills made the project too expensive '
-     + 'to continue hosting.',
+    title: 'Personality Analysis',
+    subtitle: 'CS126 Final Project',
+    link: 'https://github.com/uiuc-sp19-cs126/final-project-Clara9',
+    image: '/images/projects/personality.png',
+    date: 'April - May 2019',
+    desc: 'Preprocessed datasets of Amazon reviews in Python into personality types using MBTI scale, with sent2vec and word embedding'
+     + 'Classified and trained the preprocessed data using KNN algorithms, written in C++',
   },
+  {
+    title: 'NPS(National Park Service) Web Application',
+    subtitle: 'Application Project for 2019 Capital One SWE Summit',
+    link: 'https://clara9.github.io/NPSWebApp/',
+    image: '/images/projects/nps.jpg',
+    date: 'June 2019',
+    desc: 'Provided tools to assist users in state and designation filtering, name and keyword search with JavaScript and AJAX. ' + 
+    'Listed details about specific visitor centers and displayed alerts, articles, etc. about a selected destination '
+  }, {
+    title: 'Android Chat App',
+    subtitle: 'CS125 Final Project',
+    link: 'https://github.com/Clara9/ChatApp',
+    image: '/images/projects/chat.jpg',
+    date: 'November - December 2019',
+    desc: 'Stored chat history and authenticated users with Firebase. '
+     + 'Designed and implemented UI for chat interface',
+  }, {
+    title: 'Campus Safety App',
+    subtitle: '2018 Hack Shanghai Project',
+    link: 'https://clara9.github.io/CampusSafetyWebApp/',
+    image: '/images/projects/campus.jpg',
+    date: 'July 2018',
+    desc: 'Detected user location using JavaScript and Google Map API. ' + 
+    'Sent texts to emergency contacts with SMS API',
+  },
+  
 ];
 
 export default data;

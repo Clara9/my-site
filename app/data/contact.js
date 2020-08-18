@@ -8,37 +8,32 @@ import faEnvelope from '@fortawesome/fontawesome-free-regular/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/mldangelo',
+    link: 'https://github.com/Clara9',
     label: 'Github',
     icon: faGithub,
   },
   {
-    link: 'https://facebook.com/d',
+    link: 'https://www.facebook.com/ziyuan.wei.98',
     label: 'Facebook',
     icon: faFacebook,
   },
   {
-    link: 'https://www.instagram.com/dangelosaurus/',
+    link: 'https://www.instagram.com/ziyuanwei99/',
     label: 'Instagram',
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/michaelldangelo',
+    link: 'https://www.linkedin.com/in/clarawei99/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
+  // {
+  //   link: 'https://twitter.com/dangelosaurus',
+  //   label: 'Twitter',
+  //   icon: faTwitter,
+  // },
   {
-    link: 'https://angel.co/michael-d-angelo',
-    label: 'Angel List',
-    icon: faAngellist,
-  },
-  {
-    link: 'https://twitter.com/dangelosaurus',
-    label: 'Twitter',
-    icon: faTwitter,
-  },
-  {
-    link: 'mailto:michael.l.dangelo@gmail.com',
+    link: 'mailto:ziyuan3@illinois.edu',
     label: 'Email',
     icon: faEnvelope,
   },
