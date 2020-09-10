@@ -5,8 +5,8 @@ const courses = [
     link: 'https://courses.engr.illinois.edu/cs225/sp2020/policy/syllabus/',
     univerity: 'UIUC',
   }, {
-    title: 'Applied Machine Learning',
-    number: 'CS 498 AML',
+    title: 'Experimental Methods in HCI and ',
+    number: 'CS 498 KA',
     link: 'https://courses.engr.illinois.edu/cs498aml/sp2019/',
     univerity: 'UIUC',
   }, {
@@ -40,9 +40,9 @@ const courses = [
     link: 'https://courses.engr.illinois.edu/cs410/sp2018/',
     univerity: 'UIUC',
   }, {
-    title: 'User Interface Design',
-    number: 'CS 465',
-    link: 'http://hci.cs.illinois.edu/cs-465-advanced-topics-in-human-computer-interaction/',
+    title: 'Natural Language Processing',
+    number: 'CS 447',
+    link: 'https://courses.grainger.illinois.edu/cs447/fa2020/',
     univerity: 'UIUC',
   }, {
     title: 'Fundamental Mathematics',
@@ -107,6 +107,11 @@ const courses = [
   }, {
     title: 'Introduction to the Art of Music',
     number: 'MUS 130',
+    link: 'http://catalog.illinois.edu/courses-of-instruction/mus/',
+    univerity: 'UIUC',
+  }, {
+    title: 'Introduction to the History of Rock',
+    number: 'MUS 132',
     link: 'http://catalog.illinois.edu/courses-of-instruction/mus/',
     univerity: 'UIUC',
   },

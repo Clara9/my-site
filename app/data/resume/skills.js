@@ -52,22 +52,6 @@ const skills = [{
   competency: 3,
   category: ['Data Science'],
 },
-
-// {
-//   title: 'Express.JS',
-//   competency: 2,
-//   category: ['Web Development', ],
-// },
-// {
-//   title: 'D3',
-//   competency: 2,
-//   category: ['Web Development', ],
-// },
-// {
-//   title: 'Flask',
-//   competency: 2,
-//   category: ['Web Development', 'Python'],
-// },
 {
   title: 'Git',
   competency: 4,

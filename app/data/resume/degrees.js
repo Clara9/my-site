@@ -1,9 +1,9 @@
 const degrees = [
   {
     school: 'University of Illinois, Urbana - Champaign',
-    degree: 'B.S. Computer Science and Statistics',
+    degree: 'B.S. in Computer Science and Statistics, minor in Psychology',
     link: 'https://illinois.edu',
-    year: '2018-Present',
+    year: 'Aug 2018 - Dec 2021(Expected)',
   },
 ];
 
